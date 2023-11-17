@@ -1,2 +1,2 @@
 # Bioinformatics
-for study and test
+just for study and test!
