@@ -1,0 +1,6 @@
+#git通过本地仓库删除文件，并上传到github
+
+①本地仓库右键git bash here
+②git rm -rf （文件夹）
+③git commit -m "remove folder and file list"   ###提交申请
+④git push
